@@ -1,0 +1,38 @@
+_repo: Benjamin-Franklin-and-the-First-Balloons_43809
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43809-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Franklin, Benjamin
+    birthdate: 1706
+    deathdate: 1790
+    gutenberg_agent_id: '92'
+    url: http://www.gutenberg.org/2009/agents/92
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Franklin
+  editor:
+    agent_name: Rotch, Abbott Lawrence
+    aliases:
+    - Rotch, A. Lawrence (Abbott Lawrence)
+    - Rotch, Lawrence
+    birthdate: 1861
+    deathdate: 1912
+    gutenberg_agent_id: '42419'
+    url: http://www.gutenberg.org/2009/agents/42419
+description: ''
+gutenberg_issued: '2013-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43809'
+  lccn: 08004858
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Franklin, Benjamin, 1706-1790 -- Correspondence'
+- !lcc 'TL'
+- !lcsh 'Balloons'
+title: Benjamin Franklin and the First Balloons
+url: http://www.gutenberg.org/ebooks/43809
